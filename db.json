@@ -1340,6 +1340,42 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Claire",
+      "hp": "30",
+      "sprites": {
+        "front": "abc",
+        "back": "123"
+      },
+      "id": 151
+    },
+    {
+      "name": "Claire DeBoer",
+      "hp": "30",
+      "sprites": {
+        "front": "abc",
+        "back": "123"
+      },
+      "id": 152
+    },
+    {
+      "name": "Miso",
+      "hp": "50",
+      "sprites": {
+        "front": "abc",
+        "back": "123"
+      },
+      "id": 153
+    },
+    {
+      "name": "Beyonce",
+      "hp": "50",
+      "sprites": {
+        "front": "abc",
+        "back": "123"
+      },
+      "id": 154
     }
   ]
 }
